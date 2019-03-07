@@ -31,6 +31,7 @@ a{
     font-size: 30px;
     padding: 10px;
     margin: 20px;
+    font-size: 35px;
 
 }
 
@@ -49,6 +50,20 @@ a{
 }
 .project-tile>a>p{
     padding: 40px;
+}
+.contact{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #ffcc78;
+    background: #00CED1;
+}
+.contact>li, .contact>li>a{
+    color: 	#000000;
+    font-size: 30px;
+    padding: 10px;
+    margin: 20px;
 }
 
 
